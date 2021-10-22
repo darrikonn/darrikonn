@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an open source enthusiast and the founder and CEO of [Vice Versa](https://viceversa.is/).
+I'm an open source enthusiast and the founder and CTO of [Vice Versa](https://viceversa.is/).
 
 Here are some projects that I've been working on, please check them out:
 - [island.is](https://github.com/island-is/island.is) : center of development for digital Icelandic government services ✨
